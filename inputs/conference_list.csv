@@ -1,36 +1,36 @@
 Conference,From,To,W,L,W-L,SRS,SOS,AP,NCAA,FF,NC,url,Type
-American Athletic Conference,2014,2017,801,626,0.561,6.49,4.13,7,12,1,1,/cbb/conferences/aac/,
-Atlantic Coast Conference,1954,2017,10799,6878,0.611,10.71,6.66,184,229,45,14,/cbb/conferences/acc/,Power
-America East Conference,1980,2017,4811,5396,0.471,-7.42,-5.43,0,38,0,0,/cbb/conferences/america-east/,
-Atlantic 10 Conference,1977,2017,7558,6564,0.535,3.45,2.8,34,109,1,0,/cbb/conferences/atlantic-10/,
-Atlantic Sun Conference,1979,2017,5325,5692,0.483,-7.91,-5.46,1,37,0,0,/cbb/conferences/atlantic-sun/,
-Big 12 Conference,1997,2017,4739,3062,0.607,11.42,7.3,70,118,8,1,/cbb/conferences/big-12/,Power
-Big East Conference,1980,2017,8595,5605,0.605,10.88,7.13,130,214,21,8,/cbb/conferences/big-east/,Power
-Big Sky Conference,1964,2017,6366,6385,0.499,-4.67,-2.71,2,50,0,0,/cbb/conferences/big-sky/,
-Big South Conference,1986,2017,3923,4357,0.474,-10.3,-6.79,1,26,0,0,/cbb/conferences/big-south/,
-Big Ten Conference,1899,2017,16523,11860,0.582,10.16,7.54,183,256,50,10,/cbb/conferences/big-ten/,Power
-Big West Conference,1970,2017,6473,6204,0.511,-0.29,0.56,22,59,3,1,/cbb/conferences/big-west/,
-Colonial Athletic Association,1980,2017,5400,5355,0.502,-2.2,-1.55,1,44,2,0,/cbb/conferences/colonial/,
-Conference USA,1996,2017,4863,4034,0.547,3.87,2.68,25,54,3,0,/cbb/conferences/cusa/,
-Horizon League,1980,2017,4951,4723,0.512,-0.3,0.27,7,45,2,0,/cbb/conferences/horizon/,
-Ivy Group,1902,2017,9950,9796,0.504,-6.35,-4.55,13,72,4,0,/cbb/conferences/ivy/,
-Metro Atlantic Athletic Conference,1982,2017,4946,5156,0.49,-3.89,-3.05,1,36,0,0,/cbb/conferences/maac/,
-Mid-American Conference,1947,2017,9374,8969,0.511,-1.09,-0.19,7,70,0,0,/cbb/conferences/mac/,
-Mid-Eastern Athletic Conference,1972,2017,5096,6920,0.424,-14.33,-9.54,0,36,0,0,/cbb/conferences/meac/,
-Missouri Valley Conference,1908,2017,12578,10562,0.544,3.74,3.01,60,102,17,4,/cbb/conferences/mvc/,
-Mountain West Conference,2000,2017,3007,2222,0.575,5.41,3.5,14,45,0,0,/cbb/conferences/mwc/,
-Northeast Conference,1980,2017,5272,6224,0.459,-9.67,-7.14,1,38,0,0,/cbb/conferences/northeast/,
-Ohio Valley Conference,1949,2017,7788,7650,0.504,-5.3,-3.42,12,64,1,0,/cbb/conferences/ovc/,
-Pacific-12 Conference,1916,2017,14547,10681,0.577,8.17,6.14,118,195,34,15,/cbb/conferences/pac-12/,Power
-Patriot League,1991,2017,3033,3428,0.469,-7.9,-5.79,0,26,0,0,/cbb/conferences/patriot/,
-Southeastern Conference,1933,2017,15186,11312,0.573,6.68,4.63,149,212,31,11,/cbb/conferences/sec/,Power
-Southern Conference,1921,2017,14555,13949,0.511,-6.74,-4.36,26,71,3,0,/cbb/conferences/southern/,
-Southland Conference,1969,2017,6034,6313,0.489,-7.56,-5.09,3,41,0,0,/cbb/conferences/southland/,
-Summit League,1983,2017,4469,4695,0.488,-5.22,-3.19,0,33,0,0,/cbb/conferences/summit/,
-Sun Belt Conference,1977,2017,6096,5806,0.512,-1.6,-1.05,7,56,1,0,/cbb/conferences/sun-belt/,
-Southwest Athletic Conference,1978,2017,4357,5818,0.428,-14.23,-9.23,0,37,0,0,/cbb/conferences/swac/,
-Western Athletic Conference,1963,2017,7980,6519,0.55,3.33,2.52,38,94,2,0,/cbb/conferences/wac/,
-West Coast Conference,1953,2017,7642,6921,0.525,-0.65,0.19,26,84,4,2,/cbb/conferences/wcc/,
+American Athletic Conference,2014,2019,1025,794,0.563,6.29,3.97,10,15,1,1,/cbb/conferences/aac/,
+Atlantic Coast Conference,1954,2019,11114,7078,0.611,10.78,6.7,189,238,45,14,/cbb/conferences/acc/,Power
+America East Conference,1980,2019,4956,5543,0.472,-7.37,-5.4,0,39,0,0,/cbb/conferences/america-east/,
+Atlantic 10 Conference,1977,2019,7790,6788,0.534,3.42,2.78,34,112,1,0,/cbb/conferences/atlantic-10/,
+Atlantic Sun Conference,1979,2019,5443,5832,0.483,-7.94,-5.44,1,38,0,0,/cbb/conferences/atlantic-sun/,
+Big 12 Conference,1997,2019,4959,3192,0.608,11.56,7.4,73,125,9,1,/cbb/conferences/big-12/,Power
+Big East Conference,1980,2019,8808,5733,0.606,10.96,7.17,132,220,22,9,/cbb/conferences/big-east/,Power
+Big Sky Conference,1964,2019,6564,6580,0.499,-4.64,-2.7,2,51,0,0,/cbb/conferences/big-sky/,
+Big South Conference,1986,2019,4087,4523,0.475,-10.19,-6.73,1,27,0,0,/cbb/conferences/big-south/,
+Big Ten Conference,1899,2019,16812,12049,0.583,10.21,7.55,187,260,51,10,/cbb/conferences/big-ten/,Power
+Big West Conference,1970,2019,6612,6352,0.51,-0.37,0.51,22,60,3,1,/cbb/conferences/big-west/,
+Colonial Athletic Association,1980,2019,5567,5511,0.503,-2.22,-1.57,1,45,2,0,/cbb/conferences/colonial/,
+Conference USA,1996,2019,5108,4255,0.546,3.69,2.56,25,55,3,0,/cbb/conferences/cusa/,
+Horizon League,1980,2019,5105,4900,0.51,-0.47,0.15,7,46,2,0,/cbb/conferences/horizon/,
+Ivy Group,1902,2019,10059,9921,0.503,-6.33,-4.53,13,73,4,0,/cbb/conferences/ivy/,
+Metro Atlantic Athletic Conference,1982,2019,5110,5347,0.489,-3.92,-3.07,1,37,0,0,/cbb/conferences/maac/,
+Mid-American Conference,1947,2019,9593,9150,0.512,-1.11,-0.22,7,71,0,0,/cbb/conferences/mac/,
+Mid-Eastern Athletic Conference,1972,2019,5258,7185,0.423,-14.41,-9.54,0,37,0,0,/cbb/conferences/meac/,
+Missouri Valley Conference,1908,2019,12764,10707,0.544,3.72,2.99,60,103,18,4,/cbb/conferences/mvc/,
+Mountain West Conference,2000,2019,3205,2385,0.573,5.35,3.47,15,47,0,0,/cbb/conferences/mwc/,
+Northeast Conference,1980,2019,5418,6398,0.459,-9.67,-7.13,1,39,0,0,/cbb/conferences/northeast/,
+Ohio Valley Conference,1949,2019,7978,7841,0.504,-5.3,-3.42,12,65,1,0,/cbb/conferences/ovc/,
+Pacific-12 Conference,1916,2019,14778,10853,0.577,8.18,6.14,119,198,34,15,/cbb/conferences/pac-12/,Power
+Patriot League,1991,2019,3178,3597,0.469,-7.9,-5.79,0,27,0,0,/cbb/conferences/patriot/,
+Southeastern Conference,1933,2019,15472,11505,0.574,6.8,4.71,153,220,31,11,/cbb/conferences/sec/,Power
+Southern Conference,1921,2019,14723,14110,0.511,-6.72,-4.34,26,72,3,0,/cbb/conferences/southern/,
+Southland Conference,1969,2019,6235,6528,0.489,-7.61,-5.11,3,42,0,0,/cbb/conferences/southland/,
+Summit League,1983,2019,4603,4817,0.489,-5.16,-3.15,0,34,0,0,/cbb/conferences/summit/,
+Sun Belt Conference,1977,2019,6300,6000,0.512,-1.64,-1.1,7,57,1,0,/cbb/conferences/sun-belt/,
+Southwest Athletic Conference,1978,2019,4473,6029,0.426,-14.27,-9.21,0,38,0,0,/cbb/conferences/swac/,
+Western Athletic Conference,1963,2019,8113,6649,0.55,3.21,2.45,38,95,2,0,/cbb/conferences/wac/,
+West Coast Conference,1953,2019,7822,7080,0.525,-0.61,0.21,28,85,4,2,/cbb/conferences/wcc/,
 American South Conference,1988,1991,440,305,0.591,1.19,-0.88,0,3,0,0,/cbb/conferences/american-south/,
 American West Conference,1995,1996,77,144,0.348,-12.32,-3.57,0,0,0,0,/cbb/conferences/american-west/,
 Big Eight Conference,1929,1996,7013,5521,0.56,7.14,5.6,69,105,20,2,/cbb/conferences/big-8/,Power
